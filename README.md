@@ -3,5 +3,5 @@
 # About python 
 
 # Topics covered
-# what is python? , python features ,python benefits anhd Demerts and merts in python 
+# what is python? , python features ,python benefits anhd Demerits and merits in python 
 
